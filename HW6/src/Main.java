@@ -1,8 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        int cats = 0;
-        int dogs = 0;
-        int animals = cats + dogs;
         Animal dog1 = new Dog();
         Animal dog2 = new Dog();
         Animal dog3 = new Dog();
